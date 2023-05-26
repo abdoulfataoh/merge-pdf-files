@@ -9,15 +9,7 @@ A simple tools to merge multiple pdf files
   poetry shell
 ```
 
-# Using
-1. Put all files to merge at ``pdf-files`` folder. If you want to sort files, you can prefix each file name with priority level number.
-for example:
-  - 00-filename.pdf
-  - 01-filename.pdf
-  - 03-filename.pdf
+# Help
 
-2. Launch merging
-  ```bash
-    python start.py
-  ```
-    
+![help](https://github.com/abdoulfataoh/pdfs-merger/docs/help.png)
+ 
