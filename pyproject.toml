@@ -1,10 +1,9 @@
 [tool.poetry]
-name = "merge-pdf-files"
+name = "pdfs-merger"
 version = "0.1.0"
 description = ""
 authors = ["abdoulfataoh <abdoulfataoh@gmail.com>"]
 readme = "README.md"
-packages = [{include = "merge_pdf_files"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
