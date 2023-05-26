@@ -64,19 +64,3 @@ if __name__ == '__main__':
     )
 
     merger.merge(destination)
-
-(merge-pdf-files-py3.10) abdoulfataoh@pc:~/pdfs-merger$ python main.py --help
-usage: pdfs-merger [-h] -f FILES [FILES ...] -o OUTPUT [-s] [-v]
-
-A simple tool to merge pdfs file
-
-options:
-  -h, --help            show this help message and exit
-  -f FILES [FILES ...], --files FILES [FILES ...]
-                        pdf files
-  -o OUTPUT, --output OUTPUT
-                        destination
-  -s, --sort
-  -v, --verbose
-
-https://github.com/abdoulfataoh
