@@ -11,5 +11,5 @@ A simple tools to merge multiple pdf files
 
 # Help
 
-![help](https://github.com/abdoulfataoh/pdfs-merger/docs/help.png)
+![help](https://github.com/abdoulfataoh/pdfs-merger/blob/master/docs/help.png)
  
