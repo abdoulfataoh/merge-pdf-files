@@ -9,7 +9,7 @@ A simple tools to merge multiple pdf files
   poetry shell
 ```
 
-## Help
+## Overview
 
 ![help](https://github.com/abdoulfataoh/pdfs-merger/blob/master/docs/help.png)
 
